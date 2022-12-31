@@ -19,3 +19,14 @@ your job as a player is to:
 
 
 the troops will always advance towards the position no matter what, they will report their findings as they advance
+
+
+short term goal:
+
+    get sprites and animations implemented into the game
+
+    give mobs ability to shoot at eachother
+
+    make mobs die when they get shot too much
+
+    get A* pathfinding algorithm for troops
