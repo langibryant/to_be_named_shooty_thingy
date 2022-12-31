@@ -1,0 +1,11 @@
+[submodule "lib/ge"]
+	path = lib/ge
+	url = git@github.com:herbglitchYT/SDL2_GE_00.git
+[submodule "lib/sdl"]
+	path = lib/sdl
+	url = git@github.com:libsdl-org/SDL.git
+	ignore = dirty
+[submodule "lib/sdl_image"]
+	path = lib/sdl_image
+	url = git@github.com:libsdl-org/SDL_image.git
+	ignore = dirty
